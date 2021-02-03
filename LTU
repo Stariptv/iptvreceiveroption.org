@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:0,LRT HD
+http://e02.plius.tv:64144/n1/index.m3u8
+#EXTINF:0,Lietuvos Rytas HD
+http://e02.plius.tv:64144/n2/index.m3u8
+#EXTINF:0,DELFI TV
+http://e02.plius.tv:64144/n3/index.m3u8
+#EXTINF:0,Liuks! H.264
+http://e02.plius.tv:64144/n6/index.m3u8
+#EXTINF:0,2TV HD
+http://e02.plius.tv:64144/n8/index.m3u8
+#EXTINF:0,LRT Plius HD
+http://e02.plius.tv:64144/n12/index.m3u8
+#EXTINF:0,Siauliu Televizija HD
+http://e02.plius.tv:64144/n13/index.m3u8
+#EXTINF:0,Animal Planet HD
+http://e02.plius.tv:64144/n18/index.m3u8
+#EXTINF:0,Viasat Explore HD
+http://e02.plius.tv:64144/n19/index.m3u8
+#EXTINF:0,Viasat History HD
+http://e02.plius.tv:64144/n20/index.m3u8
+#EXTINF:0,INIT TV HD
+http://e02.plius.tv:64144/n23/index.m3u8
+#EXTINF:0,Fashion Television HD
+http://e02.plius.tv:64144/n26/index.m3u8
+#EXTINF:0,HD Life
+http://e02.plius.tv:64144/n32/index.m3u8
+#EXTINF:0,Sony Turbo Baltic HD
+http://e02.plius.tv:64144/n35/index.m3u8
+#EXTINF:0,TVP Polonia HD
+http://e02.plius.tv:64144/n38/index.m3u8
+#EXTINF:0,Eurosport HD
+http://e02.plius.tv:64144/n40/index.m3u8
+#EXTINF:0,Sony Channel Baltic HD
+http://e02.plius.tv:64144/n43/index.m3u8
+#EXTINF:0,Viasat Nature HD
+http://e02.plius.tv:64144/n59/index.m3u8
+#EXTINF:0,LRT Lituanica
+http://e02.plius.tv:64144/n61/index.m3u8
+#EXTINF:0,Belarus 24 HD
+http://e02.plius.tv:64144/n64/index.m3u8
+#EXTINF:0,Kuhnya TV HD
+http://e02.plius.tv:64144/n66/index.m3u8
+#EXTINF:0,FOX
+http://e02.plius.tv:64144/n67/index.m3u8
+#EXTINF:0,FightBox HD
+http://e02.plius.tv:64144/n69/index.m3u8
+#EXTINF:0,TV XXI
+http://e02.plius.tv:64144/n72/index.m3u8
+#EXTINF:0,INDIJSKOE KINO
+http://e02.plius.tv:64144/n73/index.m3u8
+#EXTINF:0,FilmzonePlus HD
+http://e02.plius.tv:64144/n74/index.m3u8
+#EXTINF:0,FilmzoneLIT HD
+http://e02.plius.tv:64144/n75/index.m3u8
+#EXTINF:0,Discovery TLC
+http://e02.plius.tv:64144/n77/index.m3u8
+#EXTINF:0,DTX HD
+http://e02.plius.tv:64144/n78/index.m3u8
+#EXTINF:0,Kino Comedy HD
+http://e02.plius.tv:64144/n91/index.m3u8
+#EXTINF:0,Disney Junior
+http://e02.plius.tv:64144/n98/index.m3u8
+#EXTINF:0,DuckTV HD
+http://e02.plius.tv:64144/n100/index.m3u8
+#EXTINF:0,LollyKids
+http://e02.plius.tv:64144/n102/index.m3u8
+#EXTINF:0,ARENA HD
+http://e02.plius.tv:64144/n103/index.m3u8
+#EXTINF:0,Dom Kino
+http://e02.plius.tv:64144/n108/index.m3u8
+#EXTINF:0,DK Premium HD
+http://e02.plius.tv:64144/n109/index.m3u8
+#EXTINF:0,Sony Turbo Baltic HD
+http://e02.plius.tv:64144/n111/index.m3u8
+#EXTINF:0,LNK HD
+http://e02.plius.tv:64144/n120/index.m3u8
+#EXTINF:0,TVPlay Sports+ HD
+http://e02.plius.tv:64144/n125/index.m3u8
+#EXTINF:0,MTV Live HD
+http://e02.plius.tv:64144/n126/index.m3u8
+#EXTINF:0,TV3 HD_to_NTT
+http://e02.plius.tv:64144/n127/index.m3u8
+#EXTINF:0,TV6 HD_to_NTT
+http://e02.plius.tv:64144/n128/index.m3u8
+#EXTINF:0,TVK HD
+http://e02.plius.tv:64144/n129/index.m3u8
+#EXTINF:0,TV8 HD
+http://e02.plius.tv:64144/n130/index.m3u8
+#EXTINF:0,TV3 Sport HD
+http://e02.plius.tv:64144/n131/index.m3u8
+#EXTINF:0,BTV HD
+http://e02.plius.tv:64144/n133/index.m3u8
+#EXTINF:0,TV1 HD
+http://e02.plius.tv:64144/n134/index.m3u8
+#EXTINF:0,Info TV HD
+http://e02.plius.tv:64144/n135/index.m3u8
+#EXTINF:0,Playboy HD
+http://e02.plius.tv:64144/n137/index.m3u8
+#EXTINF:0,Bollywood HD
+http://e02.plius.tv:64144/n138/index.m3u8
+#EXTINF:0,5 Kanal
+http://e02.plius.tv:64144/n139/index.m3u8
+#EXTINF:0,TVE Internacional HD
+http://e02.plius.tv:64144/n142/index.m3u8
+#EXTINF:0,Barely Legal
+http://e02.plius.tv:64144/n144/index.m3u8
+#EXTINF:0,NTV-Serial
+http://e02.plius.tv:64144/n150/index.m3u8
+#EXTINF:0,NTV-Pravo
+http://e02.plius.tv:64144/n151/index.m3u8
+#EXTINF:0,NTV-Style
+http://e02.plius.tv:64144/n152/index.m3u8
+#EXTINF:0,O!
+http://e02.plius.tv:64144/n153/index.m3u8
+#EXTINF:0,Poehali!
+http://e02.plius.tv:64144/n154/index.m3u8
+#EXTINF:0,TV3 Film HD
+http://e02.plius.tv:64144/n156/index.m3u8
+#EXTINF:0,Epic Drama HD
+http://e02.plius.tv:64144/n157/index.m3u8
+#EXTINF:0,Centralnoe TV
+http://e02.plius.tv:64144/n158/index.m3u8
+#EXTINF:0,Kinomiks HD
+http://e02.plius.tv:64144/n159/index.m3u8
+#EXTINF:0,Nashe Novoe Kino HD
+http://e02.plius.tv:64144/n160/index.m3u8
+#EXTINF:0,RODNOE KINO
+http://e02.plius.tv:64144/n161/index.m3u8
+#EXTINF:0,KBH
+http://e02.plius.tv:64144/n163/index.m3u8
+#EXTINF:0,Kinoseriya HD
+http://e02.plius.tv:64144/n162/index.m3u8
+#EXTINF:0,M1-Global HD
+http://e02.plius.tv:64144/n164/index.m3u8
+#EXTINF:0,BOKS TV
+http://e02.plius.tv:64144/n165/index.m3u8
+#EXTINF:0,Detskij mir / TeleClub
+http://e02.plius.tv:64144/n166/index.m3u8
+#EXTINF:0,360TuneBox / EroX
+http://e02.plius.tv:64144/n169/index.m3u8
+#EXTINF:0,TVP Info HD
+http://e02.plius.tv:64144/n173/index.m3u8
+#EXTINF:0,Smartzone
+http://e02.plius.tv:64144/n179/index.m3u8
+#EXTINF:0,ŽTV
+http://e02.plius.tv:64144/n183/index.m3u8
+#EXTINF:0,FilmUADrama (a)
+http://e02.plius.tv:64144/n193/index.m3u8
+#EXTINF:0,Vip Comedy
+http://e02.plius.tv:64144/n208/index.m3u8
+#EXTINF:0,ID Fashion HD
+http://e02.plius.tv:64144/n214/index.m3u8
+#EXTINF:0,Erox
+http://e02.plius.tv:64144/n216/index.m3u8
