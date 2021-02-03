@@ -1,319 +1,374 @@
-#EXTM3U
-#EXTINF:-1,LRT Televizija
-http://78.157.89.215:9998/udp/233.136.41.12:1234
+#EXTINF:-1,LTV1
+http://185.176.117.243/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+#EXTINF:-1,LTV7
+http://185.176.117.243/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+#EXTINF:-1,TV3 LV SD
+http://185.176.117.243/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
+#EXTINF:-1,LNT
+http://185.176.117.243/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,TV6 LV
+http://185.176.117.243/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+#EXTINF:-1,Kanāls 2
+http://185.176.117.243/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+#EXTINF:-1,TV3+
+http://185.176.117.243/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+#EXTINF:-1,TV3 LT SD
+http://185.176.117.243/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1,TV3 LT HD
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,TV6 LT
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1,TV8 LT
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LRT
+http://185.176.117.243/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1,LRT Lithuania
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
 #EXTINF:-1,LNK
-http://78.157.89.215:9998/udp/233.136.41.13:1234
-#EXTINF:-1,TV3
-http://78.157.89.215:9998/udp/233.136.41.39:1234
-#EXTINF:-1,BTV
-http://78.157.89.215:9998/udp/233.136.41.20:1234
-#EXTINF:-1,Lietuvos ryto TV
-http://78.157.89.215:9998/udp/233.136.41.15:1234
-#EXTINF:-1,TV6
-http://78.157.89.215:9998/udp/233.136.41.38:1234
-#EXTINF:-1,LRT Kultura
-http://78.157.89.215:9998/udp/233.136.41.31:1234
-#EXTINF:-1,TV8
-http://78.157.89.215:9998/udp/233.136.41.116:1234
+http://185.176.117.243/live/eds/LNK/HLS_encr/LNK.m3u8
 #EXTINF:-1,TV1
-http://78.157.89.215:9998/udp/233.136.41.42:1234
-#EXTINF:-1,Balticum TV
-http://78.157.89.215:9998/udp/233.136.41.21:1234
-#EXTINF:-1,Balticum Auksinis
-http://78.157.89.215:9998/udp/233.136.41.105:1234
-#EXTINF:-1,SPORT1 LIETUVA
-http://78.157.89.215:9998/udp/233.136.41.45:1234
-#EXTINF:-1,Sport1 HD LIETUVA
-http://78.157.89.215:9998/udp/233.136.41.163:1234
-#EXTINF:-1,Info TV
-http://78.157.89.215:9998/udp/233.136.41.17:1234
-#EXTINF:-1,Liuks!
-http://78.157.89.215:9998/udp/233.136.41.14:1234
-#EXTINF:-1,Viasat Sport Baltic
-http://78.157.89.215:9998/udp/233.136.41.36:1234
-#EXTINF:-1,Seimas
-http://78.157.89.215:9998/udp/233.136.41.118:1234
-#EXTINF:-1,TV1000 Premium
-http://78.157.89.215:9998/udp/233.136.41.119:1234
-#EXTINF:-1,Pingviniukas
-http://78.157.89.215:9998/udp/233.136.41.115:1234
-#EXTINF:-1,?vaig?d?
-http://78.157.89.215:9998/udp/233.136.41.165:1234
-#EXTINF:-1,Splius
-http://78.157.89.215:9998/udp/233.136.41.130:1234
-#EXTINF:-1,Siauliu televizija
-http://78.157.89.215:9998/udp/233.136.41.95:1234
-#EXTINF:-1,LTV World
-http://78.157.89.215:9998/udp/233.136.41.147:1234
-#EXTINF:-1,GNTV
-http://78.157.89.215:9998/udp/233.136.41.148:1234
-#EXTINF:-1,Kidzone
-http://78.157.89.215:9998/udp/233.136.41.145:1234
-#EXTINF:-1,LRT HD
-http://78.157.89.215:9998/udp/233.136.41.158:1234
-#EXTINF:-1,Animal Planet HD
-http://78.157.89.215:9998/udp/233.136.41.156:1234
-#EXTINF:-1,Discovery Science HD
-http://78.157.89.215:9998/udp/233.136.41.157:1234
-#EXTINF:-1,Filmzone+ HD
-http://78.157.89.215:9998/udp/233.136.41.161:1234
-#EXTINF:-1,Discovery HD Showcase
-http://78.157.89.215:9998/udp/233.136.41.54:1234
-#EXTINF:-1,ID Xtra Europe HD
-http://78.157.89.215:9998/udp/233.136.41.155:1234
-#EXTINF:-1,МСМ ТОР HD
-http://78.157.89.215:9998/udp/233.136.41.159:1234
-#EXTINF:-1,Fashion One HD
-http://78.157.89.215:9998/udp/233.136.41.160:1234
-#EXTINF:-1,Setanta Sports HD
-http://78.157.89.215:9998/udp/233.136.41.162:1234
-#EXTINF:-1,iConcerts HD
-http://78.157.89.215:9998/udp/233.136.41.59:1234
-#EXTINF:-1,Deluxe Music HD
-http://78.157.89.215:9998/udp/233.136.41.96:1234
-#EXTINF:-1,Eurosport HD
-http://78.157.89.215:9998/udp/233.136.41.104:1234
-#EXTINF:-1,Eurosport 2 HD
-http://78.157.89.215:9998/udp/233.136.41.143:1234
-#EXTINF:-1,Duck TV HD
-http://78.157.89.215:9998/udp/233.136.41.108:1234
-#EXTINF:-1,Travel HD
-http://78.157.89.215:9998/udp/233.136.41.124:1234
-#EXTINF:-1,Viasat Motor HD
-http://78.157.89.215:9998/udp/233.136.41.126:1234
-#EXTINF:-1,Viasat History HD
-http://78.157.89.215:9998/udp/233.136.41.140:1234
-#EXTINF:-1,Viasat Explore HD
-http://78.157.89.215:9998/udp/233.136.41.141:1234
-#EXTINF:-1,Viasat History
-http://78.157.89.215:9998/udp/233.136.41.34:1234
-#EXTINF:-1,Viasat Explore
-http://78.157.89.215:9998/udp/233.136.41.37:1234
-#EXTINF:-1,Viasat Nature
-http://78.157.89.215:9998/udp/233.136.41.133:1234
-#EXTINF:-1,TV1000 Русское кино
-http://78.157.89.215:9998/udp/233.136.41.40:1234
-#EXTINF:-1,TV1000 East
-http://78.157.89.215:9998/udp/233.136.41.41:1234
-#EXTINF:-1,TV1000 Action
-http://78.157.89.215:9998/udp/233.136.41.120:1234
-#EXTINF:-1,Viasat Golf
-http://78.157.89.215:9998/udp/233.136.41.85:1234
-#EXTINF:-1,Viasat Motor
-http://78.157.89.215:9998/udp/233.136.41.125:1234
-#EXTINF:-1,JimJam
-http://78.157.89.215:9998/udp/233.136.41.16:1234
-#EXTINF:-1,Duck TV
-http://78.157.89.215:9998/udp/233.136.41.48:1234
-#EXTINF:-1,Disney Channel
-http://78.157.89.215:9998/udp/233.136.41.90:1234
-#EXTINF:-1,Disney 😆
-http://78.157.89.215:9998/udp/233.136.41.91:1234
-#EXTINF:-1,Disney Junior
-http://78.157.89.215:9998/udp/233.136.41.92:1234
-#EXTINF:-1,DaVinci Learning
-http://78.157.89.215:9998/udp/233.136.41.5:1234
-#EXTINF:-1,Cartoon Network
-http://78.157.89.215:9998/udp/233.136.41.6:1234
-#EXTINF:-1,Boomerang
-http://78.157.89.215:9998/udp/233.136.41.7:1234
-#EXTINF:-1,Discovery World
-http://78.157.89.215:9998/udp/233.136.41.1:1234
-#EXTINF:-1,Discovery TLC
-http://78.157.89.215:9998/udp/233.136.41.2:1234
-#EXTINF:-1,Discovery Science
-http://78.157.89.215:9998/udp/233.136.41.3:1234
-#EXTINF:-1,Discovery Channel
-http://78.157.89.215:9998/udp/233.136.41.4:1234
-#EXTINF:-1,Animal Planet
-http://78.157.89.215:9998/udp/233.136.41.8:1234
-#EXTINF:-1,National Geographic
-http://78.157.89.215:9998/udp/233.136.41.29:1234
-#EXTINF:-1,Travel Channel
-http://78.157.89.215:9998/udp/233.136.41.44:1234
-#EXTINF:-1,Investigation Discovery
-http://78.157.89.215:9998/udp/233.136.41.55:1234
-#EXTINF:-1,Fashion TV
-http://78.157.89.215:9998/udp/233.136.41.57:1234
-#EXTINF:-1,CBS Reality
-http://78.157.89.215:9998/udp/233.136.41.88:1234
-#EXTINF:-1,CBS Drama
-http://78.157.89.215:9998/udp/233.136.41.89:1234
-#EXTINF:-1,Nat Geo WILD
-http://78.157.89.215:9998/udp/233.136.41.101:1234
-#EXTINF:-1,History Channel
-http://78.157.89.215:9998/udp/233.136.41.109:1234
-#EXTINF:-1,1 Балтийский Музыкальный
-http://78.157.89.215:9998/udp/233.136.41.10:1234
-#EXTINF:-1,Eurosport
-http://78.157.89.215:9998/udp/233.136.41.11:1234
-#EXTINF:-1,Extreme Sports
-http://78.157.89.215:9998/udp/233.136.41.18:1234
-#EXTINF:-1,Eurosport 2
-http://78.157.89.215:9998/udp/233.136.41.19:1234
-#EXTINF:-1,RTVi
-http://78.157.89.215:9998/udp/233.136.41.22:1234
-#EXTINF:-1,RTR Planeta
-http://78.157.89.215:9998/udp/233.136.41.23:1234
-#EXTINF:-1,RenTV Baltic
-http://78.157.89.215:9998/udp/233.136.41.24:1234
-#EXTINF:-1,Первый Балтийский канал
-http://78.157.89.215:9998/udp/233.136.41.25:1234
-#EXTINF:-1,Охота и рыбалка
-http://78.157.89.215:9998/udp/233.136.41.26:1234
-#EXTINF:-1,НТВ Мир
-http://78.157.89.215:9998/udp/233.136.41.27:1234
-#EXTINF:-1,MTV Europe
-http://78.157.89.215:9998/udp/233.136.41.30:1234
-#EXTINF:-1,A-ONE
-http://78.157.89.215:9998/udp/233.136.41.35:1234
-#EXTINF:-1,VH1 European
-http://78.157.89.215:9998/udp/233.136.41.32:1234
-#EXTINF:-1,TV XXI
-http://78.157.89.215:9998/udp/233.136.41.43:1234
-#EXTINF:-1,RTVi Наше кино
-http://78.157.89.215:9998/udp/233.136.41.46:1234
-#EXTINF:-1,Belarus TV
-http://78.157.89.215:9998/udp/233.136.41.47:1234
-#EXTINF:-1,Bloomberg Europe
-http://78.157.89.215:9998/udp/233.136.41.49:1234
-#EXTINF:-1,Test
-http://78.157.89.215:9998/udp/233.136.41.50:1234
-#EXTINF:-1,Боец
-http://78.157.89.215:9998/udp/233.136.41.51:1234
-#EXTINF:-1,CNN Int
-http://78.157.89.215:9998/udp/233.136.41.52:1234
-#EXTINF:-1,Deutsche Welle
-http://78.157.89.215:9998/udp/233.136.41.53:1234
-#EXTINF:-1,Euronews
-http://78.157.89.215:9998/udp/233.136.41.56:1234
-#EXTINF:-1,France 24
-http://78.157.89.215:9998/udp/233.136.41.58:1234
-#EXTINF:-1,Ля-Минор
-http://78.157.89.215:9998/udp/233.136.41.61:1234
-#EXTINF:-1,MCM TOP
-http://78.157.89.215:9998/udp/233.136.41.63:1234
-#EXTINF:-1,Mezzo
-http://78.157.89.215:9998/udp/233.136.41.64:1234
-#EXTINF:-1,AMC
-http://78.157.89.215:9998/udp/233.136.41.65:1234
-#EXTINF:-1,Моя Планета
-http://78.157.89.215:9998/udp/233.136.41.66:1234
-#EXTINF:-1,Pro 7
-http://78.157.89.215:9998/udp/233.136.41.69:1234
-#EXTINF:-1,RAI1
-http://78.157.89.215:9998/udp/233.136.41.70:1234
-#EXTINF:-1,?RTL
-http://78.157.89.215:9998/udp/233.136.41.71:1234
-#EXTINF:-1,Русский Иллюзион
-http://78.157.89.215:9998/udp/233.136.41.72:1234
-#EXTINF:-1,SAT 1
-http://78.157.89.215:9998/udp/233.136.41.73:1234
-#EXTINF:-1,Splius
-http://78.157.89.215:9998/udp/233.136.41.76:1234
-#EXTINF:-1,Индия ТВ
-http://78.157.89.215:9998/udp/233.136.41.79:1234
-#EXTINF:-1,STV
-http://78.157.89.215:9998/udp/233.136.41.80:1234
-#EXTINF:-1,TVP Polonia
-http://78.157.89.215:9998/udp/233.136.41.81:1234
-#EXTINF:-1,TV5 Monde Europe
-http://78.157.89.215:9998/udp/233.136.41.82:1234
-#EXTINF:-1,ТВ Центр Int
-http://78.157.89.215:9998/udp/233.136.41.83:1234
-#EXTINF:-1,TVE Internacional
-http://78.157.89.215:9998/udp/233.136.41.84:1234
-#EXTINF:-1,Deluxe Music
-http://78.157.89.215:9998/udp/233.136.41.87:1234
-#EXTINF:-1,Авто Плюс
-http://78.157.89.215:9998/udp/233.136.41.93:1234
-#EXTINF:-1,Russia Today
-http://78.157.89.215:9998/udp/233.136.41.98:1234
-#EXTINF:-1,РБК-ТВ
-http://78.157.89.215:9998/udp/233.136.41.99:1234
-#EXTINF:-1,Fox Life
-http://78.157.89.215:9998/udp/233.136.41.110:1234
-#EXTINF:-1,FOX
-http://78.157.89.215:9998/udp/233.136.41.111:1234
-#EXTINF:-1,Sky News International
-http://78.157.89.215:9998/udp/233.136.41.112:1234
-#EXTINF:-1,RU Music
-http://78.157.89.215:9998/udp/233.136.41.113:1234
-#EXTINF:-1,MTV Music 24
-http://78.157.89.215:9998/udp/233.136.41.114:1234
-#EXTINF:-1,CTC
-http://78.157.89.215:9998/udp/233.136.41.121:1234
-#EXTINF:-1,KHL
-http://78.157.89.215:9998/udp/233.136.41.127:1234
-#EXTINF:-1,Россия 24
-http://78.157.89.215:9998/udp/233.136.41.128:1234
-#EXTINF:-1,RTVi Наше кино
-http://78.157.89.215:9998/udp/233.136.41.129:1234
-#EXTINF:-1,Fashion One
-http://78.157.89.215:9998/udp/233.136.41.131:1234
-#EXTINF:-1,Наука 2.0
-http://78.157.89.215:9998/udp/233.136.41.132:1234
-#EXTINF:-1,ДОЖДЬ
-http://78.157.89.215:9998/udp/233.136.41.134:1234
-#EXTINF:-1,Fine Living
-http://78.157.89.215:9998/udp/233.136.41.135:1234
-#EXTINF:-1,Кухня ТВ
-http://78.157.89.215:9998/udp/233.136.41.136:1234
-#EXTINF:-1,English Club TV
-http://78.157.89.215:9998/udp/233.136.41.137:1234
-#EXTINF:-1,Иллюзион +
-http://78.157.89.215:9998/udp/233.136.41.138:1234
-#EXTINF:-1,Живи!
-http://78.157.89.215:9998/udp/233.136.41.139:1234
+http://185.176.117.243/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,ETV
+http://185.176.117.243/live/eds/ETV/HLS_encr/ETV.m3u8
+#EXTINF:-1,ETV 2
+http://185.176.117.243/live/eds/ETV2/HLS_encr/ETV2.m3u8
+#EXTINF:-1,TV6 EE
+http://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
+#EXTINF:-1,Kanal 11
+http://185.176.117.243/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
+#EXTINF:-1,Kanala 12
+http://185.176.117.243/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
+#EXTINF:-1,Tallinna Televisioon
+http://185.176.117.243/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
+#EXTINF:-1,Epic Drama
+http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,VH1
+http://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
 #EXTINF:-1,MTV Hits
-http://78.157.89.215:9998/udp/233.136.41.142:1234
-#EXTINF:-1,Eurosport News
-http://78.157.89.215:9998/udp/233.136.41.144:1234
-#EXTINF:-1,ТНТ-Comedy
-http://78.157.89.215:9998/udp/233.136.41.146:1234
-#EXTINF:-1,Ukraine Today
-http://78.157.89.215:9998/udp/233.136.41.149:1234
-#EXTINF:-1,C Music
-http://78.157.89.215:9998/udp/233.136.41.150:1234
-#EXTINF:-1,Комедия ТВ
-http://78.157.89.215:9998/udp/233.136.41.151:1234
-#EXTINF:-1,Дом кино
-http://78.157.89.215:9998/udp/233.136.41.152:1234
-#EXTINF:-1,Sport 1 UA
-http://78.157.89.215:9998/udp/233.136.41.153:1234
-#EXTINF:-1,Sport 2 UA
-http://78.157.89.215:9998/udp/233.136.41.154:1234
-#EXTINF:-1,TV XXI
-http://78.157.89.215:9998/udp/233.136.41.164:1234
-#EXTINF:-1,Discovery Channel
-http://78.157.89.215:9998/udp/233.136.41.166:1234
-#EXTINF:-1,TLC
-http://78.157.89.215:9998/udp/233.136.41.167:1234
-#EXTINF:-1,Discovery World
-http://78.157.89.215:9998/udp/233.136.41.168:1234
-#EXTINF:-1,Investigation Discovery
-http://78.157.89.215:9998/udp/233.136.41.169:1234
-#EXTINF:-1,LRT Televizija
-http://78.157.89.215:9998/udp/233.136.41.170:1234
-#EXTINF:-1,LRT Kultura
-http://78.157.89.215:9998/udp/233.136.41.171:1234
-#EXTINF:-1,LNK
-http://78.157.89.215:9998/udp/233.136.41.172:1234
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NTV Mir Baltic
+http://185.176.117.243/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+http://185.176.117.243/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Kidzone
+http://185.176.117.243/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,BBC
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,CNN
+http://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
+#EXTINF:-1,Disney Channel
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Nick JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,Viasat Nature
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History
+http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,Setanta Sports
+http://185.176.117.243/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Entertainment
+http://185.176.117.243/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1,National Geographic
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Brazzers
+http://185.176.117.243/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
+#EXTINF:-1,Playboy
+http://185.176.117.243/live/eds/Playboy/HLS_encr/Playboy.m3u8
+#EXTINF:-1,TV3 LV HD
+http://185.176.117.243/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD.m3u8
+#EXTINF:-1,LTV1
+https://185.176.117.243/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LTV7
+https://185.176.117.243/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV SD
+https://185.176.117.243/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV HD
+https://185.176.117.243/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
+#EXTINF:-1,LNT
+https://185.176.117.243/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV
+https://185.176.117.243/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Kanāls 2
+https://185.176.117.243/live/eds/Kanals2_LV_SD/HLS_encr/index.m3u8
 #EXTINF:-1,TV3
-http://78.157.89.215:9998/udp/233.136.41.173:1234
+https://185.176.117.243/live/eds/3plus_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT SD
+https://185.176.117.243/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT HD
+https://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LT
+https://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV8 LT
+https://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LRT
+https://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
+#EXTINF:-1,LRT Lithuania
+https://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1,LNK
+https://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
 #EXTINF:-1,TV1
-http://78.157.89.215:9998/udp/233.136.41.174:1234
-#EXTINF:-1,TV6
-http://78.157.89.215:9998/udp/233.136.41.175:1234
-#EXTINF:-1,BTV
-http://78.157.89.215:9998/udp/233.136.41.176:1234
-#EXTINF:-1,Info TV
-http://78.157.89.215:9998/udp/233.136.41.177:1234
-#EXTINF:-1,Liuks!
-http://78.157.89.215:9998/udp/233.136.41.178:1234
-#EXTINF:-1,TV8
-http://78.157.89.215:9998/udp/233.136.41.179:1234
-#EXTINF:-1,Splius
-http://78.157.89.215:9998/udp/233.136.41.180:1234
-#EXTINF:-1,Sauliu TV
-http://78.157.89.215:9998/udp/233.136.41.181:1234
+https://185.176.117.243/live/eds/TV1/HLS_encr/index.m3u8
+#EXTINF:-1,ETV
+https://185.176.117.243/live/eds/ETV/HLS_encr/index.m3u8
+#EXTINF:-1,ETV 2
+https://185.176.117.243/live/eds/ETV2/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE SD
+https://185.176.117.243/live/eds/TV3_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE HD
+https://185.176.117.243/live/eds/TV3_EE_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE
+https://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Kanal 11
+https://185.176.117.243/live/eds/Kanal11/HLS_encr/index.m3u8
+#EXTINF:-1,Kanala 12
+https://185.176.117.243/live/eds/Kanal12/HLS_encr/index.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://185.176.117.243/live/eds/TallinnaTV/HLS_encr/index.m3u8
+#EXTINF:-1,Epic Drama
+https://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/index.m3u8
+#EXTINF:-1,VH1
+https://185.176.117.243/live/eds/VH1/HLS_encr/index.m3u8
+#EXTINF:-1,MTV Hits
+https://185.176.117.243/live/eds/MTV_Hits/HLS_encr/index.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://185.176.117.243/live/eds/NTV_Mir/HLS_encr/index.m3u8
+#EXTINF:-1,PBK
+https://185.176.117.243/live/eds/PBK/HLS_encr/index.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://185.176.117.243/live/eds/Ren_TV/HLS_encr/index.m3u8
+#EXTINF:-1,Kidzone
+https://185.176.117.243/live/eds/Kidzone/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000
+https://185.176.117.243/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Action
+https://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Premium
+https://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1,BBC
+https://185.176.117.243/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1,CNN
+https://185.176.117.243/live/eds/CNN/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Channel
+https://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1,Nickelodeon
+https://185.176.117.243/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Junior
+https://185.176.117.243/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1,Nick JR
+https://185.176.117.243/live/eds/Nick_JR/HLS_encr/index.m3u8
+#EXTINF:-1,Nicktoons
+https://185.176.117.243/live/eds/Nicktoons/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Nature
+https://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat History
+https://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer
+https://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Setanta Sports
+https://185.176.117.243/live/eds/Setanta/HLS_encr/index.m3u8
+#EXTINF:-1,Entertainment
+https://185.176.117.243/live/eds/Entertainment/HLS_encr/index.m3u8
+#EXTINF:-1,National Geographic
+https://185.176.117.243/live/eds/NatGeoHD/HLS_encr/index.m3u8
+#EXTINF:-1,Brazzers
+https://185.176.117.243/live/eds/Brazzers/HLS_encr/index.m3u8
+#EXTINF:-1,Playboy
+https://185.176.117.243/live/eds/Playboy/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 EE SD
+https://185.176.117.243/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD.m3u8
+#EXTINF:-1,TV3 EE HD
+https://185.176.117.243/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
+#EXTINF:-1,ViasatHistoryHD
+https://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1,Disney_XD
+https://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,LTV1
+https://185.176.117.243/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD.m3u8
+#EXTINF:-1,LTV7
+https://185.176.117.243/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD.m3u8
+#EXTINF:-1,TV3 LV SD
+https://185.176.117.243/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD.m3u8
+#EXTINF:-1,LNT
+https://185.176.117.243/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD.m3u8
+#EXTINF:-1,TV6 LV
+https://185.176.117.243/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
+#EXTINF:-1,Kanāls 2
+https://185.176.117.243/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD.m3u8
+#EXTINF:-1,TV3
+https://185.176.117.243/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD.m3u8
+#EXTINF:-1,TV3 LT SD
+https://185.176.117.243/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8
+#EXTINF:-1,TV3 LT HD
+https://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,TV6 LT
+https://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1,TV8 LT
+https://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LRT
+https://185.176.117.243/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1,LRT Lithuania
+https://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8
+#EXTINF:-1,LNK
+https://185.176.117.243/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+https://185.176.117.243/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1,ETV
+https://185.176.117.243/live/eds/ETV/HLS_encr/ETV.m3u8
+#EXTINF:-1,ETV 2
+https://185.176.117.243/live/eds/ETV2/HLS_encr/ETV2.m3u8
+#EXTINF:-1,TV6 EE
+https://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD.m3u8
+#EXTINF:-1,Kanal 11
+https://185.176.117.243/live/eds/Kanal11/HLS_encr/Kanal11.m3u8
+#EXTINF:-1,Kanala 12
+https://185.176.117.243/live/eds/Kanal12/HLS_encr/Kanal12.m3u8
+#EXTINF:-1,Tallinna Televisioon
+https://185.176.117.243/live/eds/TallinnaTV/HLS_encr/TallinnaTV.m3u8
+#EXTINF:-1,Epic Drama
+https://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+#EXTINF:-1,VH1
+https://185.176.117.243/live/eds/VH1/HLS_encr/VH1.m3u8
+#EXTINF:-1,MTV Hits
+https://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NTV Mir Baltic
+https://185.176.117.243/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK
+https://185.176.117.243/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+https://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,Kidzone
+https://185.176.117.243/live/eds/Kidzone/HLS_encr/Kidzone.m3u8
+#EXTINF:-1,TV1000
+https://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+https://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+https://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,BBC
+https://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,CNN
+https://185.176.117.243/live/eds/CNN/HLS_encr/CNN.m3u8
+#EXTINF:-1,Disney Channel
+https://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,Nickelodeon
+https://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,Disney Junior
+https://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1,Nick JR
+https://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,Nicktoons
+https://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+#EXTINF:-1,Viasat Nature
+https://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History
+https://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+https://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,Setanta Sports
+https://185.176.117.243/live/eds/Setanta/HLS_encr/Setanta.m3u8
+#EXTINF:-1,Entertainment
+https://185.176.117.243/live/eds/Entertainment/HLS_encr/Entertainment.m3u8
+#EXTINF:-1,National Geographic
+https://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Brazzers
+https://185.176.117.243/live/eds/Brazzers/HLS_encr/Brazzers.m3u8
+#EXTINF:-1,Playboy
+https://185.176.117.243/live/eds/Playboy/HLS_encr/Playboy.m3u8
+#EXTINF:-1,Viasat History HD
+https://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat Explorer HD
+https://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,ETV plus
+http://185.176.117.243/live/eds/ETVplus/HLS_encr/ETVplus.m3u8
+#EXTINF:-1,Sport1 LT
+https://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1,BBC
+http://185.176.117.243/live/eds/BBC/HLS_encr/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/index.m3u8
+#EXTINF:-1,CNN
+http://185.176.117.243/live/eds/CNN/HLS_encr/index.m3u8
+#EXTINF:-1,Sport1 LT
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1,viasatnature
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/index.m3u8
+#EXTINF:-1,tv1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1,tv1000action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1,ntvmir
+http://185.176.117.243/live/eds/NTV_Mir/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat_History
+http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Viasat_Explorer
+http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 Premium
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-audio_20003=96000-video=5000000.m3u8
+#EXTINF:-1,Disney Channel
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1,Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1,Brazzers
+http://185.176.117.243/live/eds/Brazzers/HLS_encr/index.m3u8
+#EXTINF:-1,Playboy
+http://185.176.117.243/live/eds/Playboy/HLS_encr/index.m3u8
+#EXTINF:-1,LNK
+http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
+#EXTINF:-1,LNT
+http://185.176.117.243/live/eds/LNT_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LRT
+http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
+#EXTINF:-1,LRT Lithuania
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+#EXTINF:-1,LTV1
+http://185.176.117.243/live/eds/LTV1_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,LTV7
+http://185.176.117.243/live/eds/LTV7_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,Sporta Centrs
+https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/index.m3u8
+#EXTINF:-1,Sporta Centrs
+https://185.176.117.243/live/eds/SportaCentrs/HLS_encr/SportaCentrs.m3u8
+#EXTINF:-1,TV1000 Premium
+http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT HD
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LT SD
+http://185.176.117.243/live/eds/TV3_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV HD
+http://185.176.117.243/live/eds/TV3_LV_HD/HLS_encr/index.m3u8
+#EXTINF:-1,TV3 LV SD
+http://185.176.117.243/live/eds/TV3_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 EE
+http://185.176.117.243/live/eds/TV6_EE_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LT
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV6 LV
+http://185.176.117.243/live/eds/TV6_LV_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV8 LT
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+#EXTINF:-1,VH1
+http://185.176.117.243/live/eds/VH1/HLS_encr/index.m3u8
+#EXTINF:-1,Disney_XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,TV3 Esti HD
+http://185.176.117.243/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD.m3u8
+#EXTINF:-1,TV3 Esti
+http://185.176.117.243/live/eds/TV3_
