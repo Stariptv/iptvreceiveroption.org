@@ -1,0 +1,18 @@
+#EXTINF:-1,Animal Planet
+http://45.130.3.213:80/Animal_Planet/mpegts
+#EXTINF:-1,Discovery Channel
+http://45.130.3.213:80/Discovery_Channel/mpegts
+#EXTINF:-1,Discovery Science
+http://45.130.3.213:80/Discovery_Science/mpegts
+#EXTINF:-1,EU Music
+http://45.130.3.213:80/EU_Music/mpegts
+#EXTINF:-1,Music Box UA
+http://45.130.3.213:80/Music_Box_UA/mpegts
+#EXTINF:-1,PLUSPLUS
+http://45.130.3.213:80/PLUSPLUS/mpegts
+#EXTINF:-1,Ukraina
+http://45.130.3.213:80/Ukraina/mpegts
+#EXTINF:-1,Viasat History
+http://45.130.3.213:80/Viasat_History/mpegts
+#EXTINF:-1,XSPORT
+http://45.130.3.213:80/XSPORT/mpegts
