@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,2TV
+http://45.145.32.15:20004/2tv/index.m3u8
+#EXTINF:-1,BTV
+http://45.145.32.15:20004/btv/index.m3u8
+#EXTINF:-1,Current Time
+http://45.145.32.15:20004/current_time/index.m3u8
+#EXTINF:-1,Delfi TV
+http://45.145.32.15:20004/delfi_tv/index.m3u8
+#EXTINF:-1,Info TV
+http://45.145.32.15:20004/info_tv/index.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+http://45.145.32.15:20004/lietuvos_rytas/index.m3u8
+#EXTINF:-1,LNK
+http://45.145.32.15:20004/lnk/index.m3u8
+#EXTINF:-1,LRT
+http://45.145.32.15:20005/lrt_televizija/index.m3u8
+#EXTINF:-1,LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/index.m3u8
+#EXTINF:-1,LRT Plius
+http://45.145.32.15:20005/lrt_plius/index.m3u8
+#EXTINF:-1,LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/index.m3u8
+#EXTINF:-1,TV1
+http://45.145.32.15:20004/tv1/index.m3u8
+#EXTINF:-1,TV3
+http://45.145.32.15:20004/tv3/index.m3u8
+#EXTINF:-1,TV6
+http://45.145.32.15:20004/tv6/index.m3u8
+#EXTINF:-1,TV8
+http://45.145.32.15:20004/tv8/index.m3u8
