@@ -401,187 +401,269 @@ http://94.250.61.10:8000/play/eurosport2
 #EXTINF:-1,polaris-PRVA HD
 http://94.250.61.10:8000/play/prvatv
 
-#EXTINF:-1,253. OBN
-http://212.200.108.6:8005/play/a02y/index.m3u8
-#EXTINF:-1,503. Pink Extra
-http://212.200.108.6:8005/play/a06e/index.m3u8
-#EXTINF:-1,201. HD Luxe TV
-http://212.200.108.6:8005/play/a037/index.m3u8
-#EXTINF:-1,528. Pink Romance
-http://212.200.108.6:8005/play/a062/index.m3u8
-#EXTINF:-1,400. Arena Esport
-http://212.200.108.6:8005/play/a02z/index.m3u8
-#EXTINF:-1,039. HD SciFi
-http://212.200.108.6:8005/play/a02w/index.m3u8
-#EXTINF:-1,048. FilmBox Arthouse
-http://212.200.108.6:8005/play/a033/index.m3u8
-#EXTINF:-1,158. MTV Hits
-http://212.200.108.6:8005/play/a01n/index.m3u8
-#EXTINF:-1,525. Pink Crime&Mystery
-http://212.200.108.6:8005/play/a05z/index.m3u8
-#EXTINF:-1,037. Fox Crime
-http://212.200.108.6:8005/play/a02e/index.m3u8
-#EXTINF:-1,105. HD Travel Channel
-http://212.200.108.6:8005/play/a01j/index.m3u8
-#EXTINF:-1,035. Fox Life
-http://212.200.108.6:8005/play/a02c/index.m3u8
-#EXTINF:-1,087. Pink Super Kids
-http://212.200.108.6:8005/play/a05r/index.m3u8
-#EXTINF:-1,518. Pink Fashion
-http://212.200.108.6:8005/play/a05t/index.m3u8
-#EXTINF:-1,080. Jim Jam
-http://212.200.108.6:8005/play/a028/index.m3u8
-#EXTINF:-1,104. Animal Planet
-http://212.200.108.6:8005/play/a01i/index.m3u8
-#EXTINF:-1,523. Pink Plus
-http://212.200.108.6:8005/play/a05x/index.m3u8
-#EXTINF:-1,077. Duck TV
-http://212.200.108.6:8005/play/a026/index.m3u8
-#EXTINF:-1,071. HD Nickelodeon
-http://212.200.108.6:8005/play/a02r/index.m3u8
-#EXTINF:-1,403. Arena Sport 3
-http://212.200.108.6:8005/play/a02i/index.m3u8
-#EXTINF:-1,504. Pink M
-http://212.200.108.6:8005/play/a06f/index.m3u8
-#EXTINF:-1,526. Pink Sci-Fi&Fantasy
-http://212.200.108.6:8005/play/a060/index.m3u8
-#EXTINF:-1,538. Pink Pedia
-http://212.200.108.6:8005/play/a06u/index.m3u8
-#EXTINF:-1,402. Arena Sport 2
-http://212.200.108.6:8005/play/a02h/index.m3u8
-#EXTINF:-1,404. Arena Sport 4
-http://212.200.108.6:8005/play/a02j/index.m3u8
-#EXTINF:-1,106. National Geographic
-http://212.200.108.6:8005/play/a01k/index.m3u8
-#EXTINF:-1,520. Pink&Roll
-http://212.200.108.6:8005/play/a05v/index.m3u8
-#EXTINF:-1,517. Pink Horror
-http://212.200.108.6:8005/play/a05s/index.m3u8
-#EXTINF:-1,160. MTV Rocks
-http://212.200.108.6:8005/play/a01o/index.m3u8
-#EXTINF:-1,078. Hayatovci
-http://212.200.108.6:8005/play/a027/index.m3u8
-#EXTINF:-1,542. Pink Kuvar
-http://212.200.108.6:8005/play/a06w/index.m3u8
-#EXTINF:-1,108. History Channel
-http://212.200.108.6:8005/play/a02a/index.m3u8
-#EXTINF:-1,536. Pink Classic
-http://212.200.108.6:8005/play/a06y/index.m3u8
-#EXTINF:-1,418. Extreme Channel
-http://212.200.108.6:8005/play/a06a/index.m3u8
-#EXTINF:-1,086. Pink Kids
-http://212.200.108.6:8005/play/a06x/index.m3u8
-#EXTINF:-1,072. Nick Jr
-http://212.200.108.6:8005/play/a022/index.m3u8
-#EXTINF:-1,537. Pink Style
-http://212.200.108.6:8005/play/a06z/index.m3u8
-#EXTINF:-1,073. Disney Channel
-http://212.200.108.6:8005/play/a023/index.m3u8
-#EXTINF:-1,540. Pink Soap
-http://212.200.108.6:8005/play/a06v/index.m3u8
-#EXTINF:-1,535. Pink Show
-http://212.200.108.6:8005/play/a06t/index.m3u8
-#EXTINF:-1,521. Pink HA HA
-http://212.200.108.6:8005/play/a06s/index.m3u8
-#EXTINF:-1,534. Pink World
-http://212.200.108.6:8005/play/a068/index.m3u8
-#EXTINF:-1,527. Pink Premium
-http://212.200.108.6:8005/play/a061/index.m3u8
-#EXTINF:-1,075. Minimax/FilmPlus
-http://212.200.108.6:8005/play/a025/index.m3u8
-#EXTINF:-1,515. Pink Family
-http://212.200.108.6:8005/play/a06q/index.m3u8
-#EXTINF:-1,514. Pink Western
-http://212.200.108.6:8005/play/a06p/index.m3u8
-#EXTINF:-1,513. Pink Folk 2
-http://212.200.108.6:8005/play/a06o/index.m3u8
-#EXTINF:-1,512. Pink Folk
-http://212.200.108.6:8005/play/a06n/index.m3u8
-#EXTINF:-1,505. Pink BH
-http://212.200.108.6:8005/play/a06g/index.m3u8
-#EXTINF:-1,522. Pink LOL
-http://212.200.108.6:8005/play/a05w/index.m3u8
-#EXTINF:-1,509. Pink Hits 2
-http://212.200.108.6:8005/play/a06k/index.m3u8
-#EXTINF:-1,508. Pink Hits 1
-http://212.200.108.6:8005/play/a06j/index.m3u8
-#EXTINF:-1,043. CBS Reality
-http://212.200.108.6:8005/play/a030/index.m3u8
-#EXTINF:-1,507. Pink Music 2
-http://212.200.108.6:8005/play/a06i/index.m3u8
-#EXTINF:-1,164. 360TuneBox
-http://212.200.108.6:8005/play/a01q/index.m3u8
-#EXTINF:-1,506. Pink Music
-http://212.200.108.6:8005/play/a06h/index.m3u8
-#EXTINF:-1,511. City Play
-http://212.200.108.6:8005/play/a06m/index.m3u8
-#EXTINF:-1,530. Pink Action
-http://212.200.108.6:8005/play/a064/index.m3u8
-#EXTINF:-1,532. Pink Serije
-http://212.200.108.6:8005/play/a066/index.m3u8
-#EXTINF:-1,115. HD DocuBox
-http://212.200.108.6:8005/play/a036/index.m3u8
-#EXTINF:-1,501. Red
-http://212.200.108.6:8005/play/a06c/index.m3u8
-#EXTINF:-1,053. TV1000 Balkan
-http://212.200.108.6:8005/play/a02q/index.m3u8
-#EXTINF:-1,500. Pink
-http://212.200.108.6:8005/play/a06b/index.m3u8
-#EXTINF:-1,414. HD Fight Network
-http://212.200.108.6:8005/play/a069/index.m3u8
-#EXTINF:-1,516. Pink Film
-http://212.200.108.6:8005/play/a06r/index.m3u8
-#EXTINF:-1,401. Arena Sport 1
-http://212.200.108.6:8005/play/a02g/index.m3u8
-#EXTINF:-1,533. Pink World Cinema
-http://212.200.108.6:8005/play/a067/index.m3u8
-#EXTINF:-1,531. Pink Movies
-http://212.200.108.6:8005/play/a065/index.m3u8
-#EXTINF:-1,502. Pink 3 Info
-http://212.200.108.6:8005/play/a06d/index.m3u8
-#EXTINF:-1,162. VH1 Classic
-http://212.200.108.6:8005/play/a01p/index.m3u8
-#EXTINF:-1,529. Pink Thriller
-http://212.200.108.6:8005/play/a063/index.m3u8
-#EXTINF:-1,110. Crime & Investigation
-http://212.200.108.6:8005/play/a01m/index.m3u8
-#EXTINF:-1,184. BBC World News
-http://212.200.108.6:8005/play/a02v/index.m3u8
-#EXTINF:-1,203. FashionBox
-http://212.200.108.6:8005/play/a038/index.m3u8
-#EXTINF:-1,519. Pink Koncert
-http://212.200.108.6:8005/play/a05u/index.m3u8
-#EXTINF:-1,524. Pink Comedy
-http://212.200.108.6:8005/play/a05y/index.m3u8
-#EXTINF:-1,117. Viasat Explore
-http://212.200.108.6:8005/play/a02s/index.m3u8
-#EXTINF:-1,510. Bravo Music
-http://212.200.108.6:8005/play/a06l/index.m3u8
-#EXTINF:-1,119. Viasat Nature
-http://212.200.108.6:8005/play/a02u/index.m3u8
-#EXTINF:-1,200. E!
-http://212.200.108.6:8005/play/a02x/index.m3u8
-#EXTINF:-1,112. HD Kitchen TV
-http://212.200.108.6:8005/play/a035/index.m3u8
-#EXTINF:-1,036. FOX
-http://212.200.108.6:8005/play/a02d/index.m3u8
-#EXTINF:-1,107. HD NatGeoWild
-http://212.200.108.6:8005/play/a01l/index.m3u8
-#EXTINF:-1,074. Disney Junior
-http://212.200.108.6:8005/play/a024/index.m3u8
-#EXTINF:-1,081. CN
-http://212.200.108.6:8005/play/a029/index.m3u8
-#EXTINF:-1,054. HD Shorts
-http://212.200.108.6:8005/play/a034/index.m3u8
-#EXTINF:-1,045. AXN Adria
-http://212.200.108.6:8005/play/a031/index.m3u8
-#EXTINF:-1,408. Eurosport 1
-http://212.200.108.6:8005/play/a02k/index.m3u8
-#EXTINF:-1,34. Cinestar Comedy
-http://212.200.108.6:8005/play/a02p/index.m3u8
-#EXTINF:-1,102. Discovery Serbia
-http://212.200.108.6:8005/play/a01h/index.m3u8
-#EXTINF:-1,046. AXN Spin
-http://212.200.108.6:8005/play/a032/index.m3u8
-#EXTINF:-1,118. Viasat History
-http://212.200.108.6:8005/play/a02t/index.m3u8
+#EXTINF:-1,5800 - SONY HD
+http://200.115.190.213:8000/play/wQWF578wnjn2Lnrz/index.m3u8
+#EXTINF:-1,5801 - LTV
+http://200.115.190.213:8000/play/CTNCGw9LatkAH8tA/index.m3u8
+#EXTINF:-1,5802 - HISTORY CHANNEL HD
+http://200.115.190.213:8000/play/hgRR6HGdf23As/index.m3u8
+#EXTINF:-1,5803 - INVESTIGATION DISCOVERY HD
+http://200.115.190.213:8000/play/8EVmhNhJHQUwrNKA/index.m3u8
+#EXTINF:-1,5804 - DISCOVERY KIDS
+http://200.115.190.213:8000/play/s8FgQukj6d9eKmT9/index.m3u8
+#EXTINF:-1,5805 - ESPN
+http://200.115.190.213:8000/play/Z5TWRUY3869wGRLG/index.m3u8
+#EXTINF:-1,5806 - DW-TV
+http://200.115.190.213:8000/play/tKvLD8GZp9nGM8JC/index.m3u8
+#EXTINF:-1,5807 - FOX SPORTS HD
+http://200.115.190.213:8000/play/zMbqBSS3gramuTPy/index.m3u8
+#EXTINF:-1,5808 - A&E HD
+http://200.115.190.213:8000/play/8XG7XmKxcXbmsbJG/index.m3u8
+#EXTINF:-1,5809 - A3CINE
+http://200.115.190.213:8000/play/KgkA9tT2SpLYm86J/index.m3u8
+#EXTINF:-1,5810 - ABC HD
+http://200.115.190.213:8000/play/bhAmBxmCwn3VLbnJ/index.m3u8
+#EXTINF:-1,58100 - STARZ
+http://200.115.190.213:8000/play/tyuptHZqYdP3wcU7/index.m3u8
+#EXTINF:-1,58101 - Starz Comedy
+http://200.115.190.213:8000/play/d9wMw4hRpVVkXFmF/index.m3u8
+#EXTINF:-1,58102 - Starz Edge West
+http://200.115.190.213:8000/play/p1k0MqIlTnIdxS2d/index.m3u8
+#EXTINF:-1,58103 - STUDIO UNIVERSAL
+http://200.115.190.213:8000/play/Um9B9zJk9LEqj7aA/index.m3u8
+#EXTINF:-1,58104 - SUN CHANNEL
+http://200.115.190.213:8000/play/dkagyRRTYhsydHH87Tt/index.m3u8
+#EXTINF:-1,58105 - SUYAPA TV
+http://200.115.190.213:8000/play/ehUvcm7apFwn8Qb8/index.m3u8
+#EXTINF:-1,58106 - SYFY
+http://200.115.190.213:8000/play/s8HLStQvq2dwPhSk/index.m3u8
+#EXTINF:-1,58107 - TDTV +
+http://200.115.190.213:8000/play/7FE5PyMTuPzYZYN2/index.m3u8
+#EXTINF:-1,58108 - TDTV HD
+http://200.115.190.213:8000/play/CtHhZK8VSMyrLuvh/index.m3u8
+#EXTINF:-1,58109 - TELECADENA 7/4
+http://200.115.190.213:8000/play/f8jnN96QRRHSLgvE/index.m3u8
+#EXTINF:-1,5811 - AGROTENDENCIAS
+http://200.115.190.213:8000/play/sfhJShygd638Ggnc/index.m3u8
+#EXTINF:-1,58110 - TELECEIBA
+http://200.115.190.213:8000/play/wTUasRcEn9wz7AcM/index.m3u8
+#EXTINF:-1,58111 - TELEMUNDO HD
+http://200.115.190.213:8000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1,58112 - TELEPROGRESO
+http://200.115.190.213:8000/play/vkt28E8zEREKhuyv/index.m3u8
+#EXTINF:-1,58113 - TELESUR
+http://200.115.190.213:8000/play/KrgtR2UMeB2c4gEN/index.m3u8
+#EXTINF:-1,58114 - TELEVICENTRO
+http://200.115.190.213:8000/play/z2Whc6dVUvW6c9BE/index.m3u8
+#EXTINF:-1,58115 - TENNIS CHANNEL
+http://200.115.190.213:8000/play/CuhCF3z5UqBQAt54/index.m3u8
+#EXTINF:-1,58116 - TENTV Honduras
+http://200.115.190.213:8000/play/Q3V88OYWJPoM4yaB/index.m3u8
+#EXTINF:-1,58117 - TLC
+http://200.115.190.213:8000/play/BVzkaj9B6Qv8LHu4/index.m3u8
+#EXTINF:-1,58118 - TNT 2 HD
+http://200.115.190.213:8000/play/tQ6gVsYx6FWa42y3/index.m3u8
+#EXTINF:-1,58119 - TNT EN
+http://200.115.190.213:8000/play/G668jdZ5765yjhgjf/index.m3u8
+#EXTINF:-1,5812 - AMC HD
+http://200.115.190.213:8000/play/QhKufqUh6RQhQ5dY/index.m3u8
+#EXTINF:-1,58120 - TNT HD
+http://200.115.190.213:8000/play/6U4n3ATkzWFRraNe/index.m3u8
+#EXTINF:-1,58121 - TNT SERIES
+http://200.115.190.213:8000/play/xEXxT427QRqh86TC/index.m3u8
+#EXTINF:-1,58122 - TOONCAST
+http://200.115.190.213:8000/play/n4kR6xbA4ZrBAKuw/index.m3u8
+#EXTINF:-1,58123 - TSI
+http://200.115.190.213:8000/play/9w2G3HTtuTmrtgPZ/index.m3u8
+#EXTINF:-1,58124 - TV Chile
+http://200.115.190.213:8000/play/fSqkHRY83AslobpD/index.m3u8
+#EXTINF:-1,58125 - TV COLOMBIA
+http://200.115.190.213:8000/play/p9f63CBmKwfe2cRj/index.m3u8
+#EXTINF:-1,58126 - TVE
+http://200.115.190.213:8000/play/YLBNzWjum7u9gpQC/index.m3u8
+#EXTINF:-1,58128 - TyCSports HD
+http://200.115.190.213:8000/play/CMGEPVwDeTnyM7Rb/index.m3u8
+#EXTINF:-1,58129 - UNE TV
+http://200.115.190.213:8000/play/Xk8Pq5PnKCZA75xn/index.m3u8
+#EXTINF:-1,5813 - ANIMAL PLANET HD
+http://200.115.190.213:8000/play/3xraqjwdjUNTNVu9/index.m3u8
+#EXTINF:-1,58130 - UNIVISION WLTV
+http://200.115.190.213:8000/play/TR65WqDLpEby8nmy/index.m3u8
+#EXTINF:-1,58131 - VENUS
+http://200.115.190.213:8000/play/MqTcpRNJ7wB3kbjC/index.m3u8
+#EXTINF:-1,58132 - VTV
+http://200.115.190.213:8000/play/99AG3HLAKBRseUqt/index.m3u8
+#EXTINF:-1,58133 - WARNER CHANNEL HD
+http://200.115.190.213:8000/play/fz8MMVu2gP7JEEnF/index.m3u8
+#EXTINF:-1,5814 - ANTENA3
+http://200.115.190.213:8000/play/akjWPSp33R6D9dv3/index.m3u8
+#EXTINF:-1,5815 - AXN HD
+http://200.115.190.213:8000/play/8Cq8VftfuLDUjBSh/index.m3u8
+#EXTINF:-1,5816 - AZ CINEMA
+http://200.115.190.213:8000/play/ppDuxzpFe2YZtbph/index.m3u8
+#EXTINF:-1,5817 - AZ CLIC
+http://200.115.190.213:8000/play/HmvJ4ds5gWTRtCMR/index.m3u8
+#EXTINF:-1,5818 - AZ CORAZON
+http://200.115.190.213:8000/play/ZYfj23fPhTjFbjAf/index.m3u8
+#EXTINF:-1,5819 - AZ MUNDO
+http://200.115.190.213:8000/play/P2jFgnwAUdRRkN7P/index.m3u8
+#EXTINF:-1,5820 - BABY TV
+http://200.115.190.213:8000/play/LCE4K4Y28Qr2Z9AM/index.m3u8
+#EXTINF:-1,5821 - BEIN SPORT
+http://200.115.190.213:8000/play/6YncKRe89K7sZa7S/index.m3u8
+#EXTINF:-1,5822 - BRAZZERS TV
+http://200.115.190.213:8000/play/JASVTFBPgPgD3ZZ7/index.m3u8
+#EXTINF:-1,5823 - CANAL 11
+http://200.115.190.213:8000/play/V3VZP98PhCLhd2UV/index.m3u8
+#EXTINF:-1,5824 - Canal TEN
+http://200.115.190.213:8000/play/g5czJwVdqWpYY128/index.m3u8
+#EXTINF:-1,5825 - CANAL6
+http://200.115.190.213:8000/play/Uh5vNWNknJkaX4sT/index.m3u8
+#EXTINF:-1,5826 - CARTOON NETWORK
+http://200.115.190.213:8000/play/73Ep4s92JhcqCy3U/index.m3u8
+#EXTINF:-1,5827 - CBS HD
+http://200.115.190.213:8000/play/SJc3fvCpEhFAv6N2/index.m3u8
+#EXTINF:-1,5828 - CCI Channel
+http://200.115.190.213:8000/play/Gn0ycenJynsB1Pbu/index.m3u8
+#EXTINF:-1,5829 - Cinecanal HD
+http://200.115.190.213:8000/play/AS2ESM6kwGDqHCaX/index.m3u8
+#EXTINF:-1,5830 - CINEMAX
+http://200.115.190.213:8000/play/VudG5hu6fgnMYz56/index.m3u8
+#EXTINF:-1,5831 - CNN ESPANOL
+http://200.115.190.213:8000/play/WmpucMcLyV96bWYM/index.m3u8
+#EXTINF:-1,5832 - CNN INTERNACIONAL
+http://200.115.190.213:8000/play/kbRr3ah49h2fTXNn/index.m3u8
+#EXTINF:-1,5833 - CNN USA
+http://200.115.190.213:8000/play/ZV59GS9TWebAFp8t/index.m3u8
+#EXTINF:-1,5834 - COMEDY CENTRAL
+http://200.115.190.213:8000/play/nJfwMEtBDLbNp7ay/index.m3u8
+#EXTINF:-1,5835 - CONGRESO TV
+http://200.115.190.213:8000/play/7qKFAZ9SJQp7gVQM/index.m3u8
+#EXTINF:-1,5836 - DISCOVERY CHANNEL HD
+http://200.115.190.213:8000/play/ZbNgJUAyX5qQ2Kck/index.m3u8
+#EXTINF:-1,5837 - DISCOVERY HOME & HEALTH HD
+http://200.115.190.213:8000/play/qUqJGdarkz5aTfGt/index.m3u8
+#EXTINF:-1,5838 - Discovery Theater HD
+http://200.115.190.213:8000/play/rDeXCAhrZdLmXQ7Y/index.m3u8
+#EXTINF:-1,5839 - DISCOVERY WORLD
+http://200.115.190.213:8000/play/Nf4QeAarDKFtuBFz/index.m3u8
+#EXTINF:-1,5840 - DISNEY CHANNEL
+http://200.115.190.213:8000/play/ntefpXvD4uthEv4f/index.m3u8
+#EXTINF:-1,5841 - DISNEY JUNIOR
+http://200.115.190.213:8000/play/QnbYDeU2yshyMZpD/index.m3u8
+#EXTINF:-1,5842 - DTV HD
+http://200.115.190.213:8000/play/23Bp6Sqv99nCx5s6/index.m3u8
+#EXTINF:-1,5843 - E!
+http://200.115.190.213:8000/play/PrEJ4uP9gUv7H63u/index.m3u8
+#EXTINF:-1,5844 - Ebenezer
+http://200.115.190.213:8000/play/0mSG6GDoDPQlUDIm/index.m3u8
+#EXTINF:-1,5845 - Encore Family
+http://200.115.190.213:8000/play/LMMEXc96QKtvV7uC/index.m3u8
+#EXTINF:-1,5846 - ENCORE HD
+http://200.115.190.213:8000/play/Y8c3rYC2aR76bVBh/index.m3u8
+#EXTINF:-1,5847 - Encore Suspense
+http://200.115.190.213:8000/play/PWqe4ZjGCTAvu2Xv/index.m3u8
+#EXTINF:-1,5848 - ESPN + HD
+http://200.115.190.213:8000/play/7mZEEEBQpQGypd9c/index.m3u8
+#EXTINF:-1,5849 - ESPN2
+http://200.115.190.213:8000/play/3jZRN66nDhuZwLbW/index.m3u8
+#EXTINF:-1,5850 - ESPN3
+http://200.115.190.213:8000/play/4hrEpujghmYgjET8/index.m3u8
+#EXTINF:-1,5851 - EUROPA EUROPA HD
+http://200.115.190.213:8000/play/enZUJwvXgpXGf34j/index.m3u8
+#EXTINF:-1,5852 - EWTN
+http://200.115.190.213:8000/play/5HJJPbP7JMwg5Vc5/index.m3u8
+#EXTINF:-1,5853 - FOOD NETWORK
+http://200.115.190.213:8000/play/wmUA33kut66JuxHh/index.m3u8
+#EXTINF:-1,5854 - FOX ACTION HD
+http://200.115.190.213:8000/play/2QB37RxhyfbMBFWX/index.m3u8
+#EXTINF:-1,5855 - FOX CINEMA
+http://200.115.190.213:8000/play/HvwR5y6WWRzZc9Kv/index.m3u8
+#EXTINF:-1,5856 - FOX CLASSICS
+http://200.115.190.213:8000/play/Wp8HjC58CyFcJQkp/index.m3u8
+#EXTINF:-1,5857 - FOX COMEDY
+http://200.115.190.213:8000/play/EpGPZNRenSkT43JD/index.m3u8
+#EXTINF:-1,5858 - FOX FAMILY HD
+http://200.115.190.213:8000/play/nLmfZ6YJY7uAhAYT/index.m3u8
+#EXTINF:-1,5859 - FOX LA
+http://200.115.190.213:8000/play/rrbJCSv5TM24E5Vr/index.m3u8
+#EXTINF:-1,5860 - FOX LIFE
+http://200.115.190.213:8000/play/nJ7PGPWccY5dK52Y/index.m3u8
+#EXTINF:-1,5861 - FOX MOVIES HD
+http://200.115.190.213:8000/play/fG79VXb6dpyJPLX8/index.m3u8
+#EXTINF:-1,5862 - FOX NEWS HD
+http://200.115.190.213:8000/play/K5ajuynCU4YyEy57/index.m3u8
+#EXTINF:-1,5863 - FOX PREMIUM SERIES
+http://200.115.190.213:8000/play/6Lawtu4xzjnyBLb7/index.m3u8
+#EXTINF:-1,5864 - FOX SPORTS 2
+http://200.115.190.213:8000/play/eGhTK4fJJR5p5M3N/index.m3u8
+#EXTINF:-1,5865 - FOX SPORTS 3
+http://200.115.190.213:8000/play/G5zcc3HYpdc5AjMs/index.m3u8
+#EXTINF:-1,5866 - FOX1 Este
+http://200.115.190.213:8000/play/R8wuM56Ivkkcv6JQ/index.m3u8
+#EXTINF:-1,5867 - FOX1 Oeste
+http://200.115.190.213:8000/play/Ru4Yp6qytEFsXYGA/index.m3u8
+#EXTINF:-1,5868 - FOX7 WSVN
+http://200.115.190.213:8000/play/xShXfm4TDt98YmwJ/index.m3u8
+#EXTINF:-1,5869 - FOXPREMIUM
+http://200.115.190.213:8000/play/aaC2G9BQULG4Wa3k/index.m3u8
+#EXTINF:-1,5870 - FX LA
+http://200.115.190.213:8000/play/R7Sd7gZkPj8NEcCJ/index.m3u8
+#EXTINF:-1,5871 - FXM HD
+http://200.115.190.213:8000/play/AscWKz6Yjh5nJT84/index.m3u8
+#EXTINF:-1,5872 - GO TV HD
+http://200.115.190.213:8000/play/ezcjMhAHpPDNzV82/index.m3u8
+#EXTINF:-1,5873 - GOL TV
+http://200.115.190.213:8000/play/S58HV7ekrnCUvF4u/index.m3u8
+#EXTINF:-1,5874 - GOLF CHANNEL
+http://200.115.190.213:8000/play/Xc74Bxbg3Qkc43Sr/index.m3u8
+#EXTINF:-1,5875 - GUATEVISION
+http://200.115.190.213:8000/play/5Zd33BSgrRbERkXk/index.m3u8
+#EXTINF:-1,5876 - HALLMARK MOVIE CHANNEL
+http://200.115.190.213:8000/play/DuLWJ8FDApFxgpya/index.m3u8
+#EXTINF:-1,5877 - HBO
+http://200.115.190.213:8000/play/37HqRRJPHef5JsZJ/index.m3u8
+#EXTINF:-1,5878 - HBO 2
+http://200.115.190.213:8000/play/47AHMHsNFq52ryGq/index.m3u8
+#EXTINF:-1,5879 - HBO FAMILY
+http://200.115.190.213:8000/play/9GeWdwHE7P5mPGQy/index.m3u8
+#EXTINF:-1,5880 - HBO Plus Mexico
+http://200.115.190.213:8000/play/ckr5Yr73dR6S4Zv7/index.m3u8
+#EXTINF:-1,5881 - HCH
+http://200.115.190.213:8000/play/h9ZJEvEGVfy9by8W/index.m3u8
+#EXTINF:-1,5882 - HTV
+http://200.115.190.213:8000/play/kNHuA5HwSWbQdWsR/index.m3u8
+#EXTINF:-1,5883 - LIFETIME LA
+http://200.115.190.213:8000/play/ZPqDc6wxcS6VPMpy/index.m3u8
+#EXTINF:-1,5884 - MTV LA
+http://200.115.190.213:8000/play/RZ4ag2RYC9eLULYQ/index.m3u8
+#EXTINF:-1,5885 - MULTIPREMIER
+http://200.115.190.213:8000/play/PKaCscg4MeGenpzG/index.m3u8
+#EXTINF:-1,5886 - NAT GEO KIDS HD
+http://200.115.190.213:8000/play/74PETzjp8XBFZwSL/index.m3u8
+#EXTINF:-1,5887 - Nat Geo Wild HD
+http://200.115.190.213:8000/play/UlKaPcAUPv9a7OWu/index.m3u8
+#EXTINF:-1,5888 - NATIONAL GEOGRAPHIC
+http://200.115.190.213:8000/play/TQqUqLTut8Hk4F89/index.m3u8
+#EXTINF:-1,5889 - NBC HD
+http://200.115.190.213:8000/play/ZAtkbM9v9JDDCwCh/index.m3u8
+#EXTINF:-1,5890 - NBCSN HD
+http://200.115.190.213:8000/play/95KZ3fsmfRhA387z/index.m3u8
+#EXTINF:-1,5891 - NICK JR.
+http://200.115.190.213:8000/play/8r3qmk4pggfET2MK/index.m3u8
+#EXTINF:-1,5892 - Oprah Winfrey Network
+http://200.115.190.213:8000/play/Y3UqZEQnMncf8YtO/index.m3u8
+#EXTINF:-1,5893 - OUTDOOR CHANNEL
+http://200.115.190.213:8000/play/w5C89YdsYPndmDF8/index.m3u8
+#EXTINF:-1,5894 - Penthouse
+http://200.115.190.213:8000/play/32KrDbK8nSLJr5EN/index.m3u8
+#EXTINF:-1,5895 - RAI
+http://200.115.190.213:8000/play/g8nvqYfMa2tkU5em/index.m3u8
+#EXTINF:-1,5896 - RT INTERNACIONAL
+http://200.115.190.213:8000/play/p4rHJ9aN8BqCadyK/index.m3u8
+#EXTINF:-1,5897 - RTVE
+http://200.115.190.213:8000/play/DycXYSLMZedC8xjR/index.m3u8
+#EXTINF:-1,5898 - SEXTREM
+http://200.115.190.213:8000/play/5NF6H3EAyctLSrEz/index.m3u8
+#EXTINF:-1,5899 - SPACE HD
+http://200.115.190.213:8000/play/RPU46bVWEJBWXjqy/index.m3u8
