@@ -16,3 +16,188 @@ http://45.130.3.213:80/Ukraina/mpegts
 http://45.130.3.213:80/Viasat_History/mpegts
 #EXTINF:-1,XSPORT
 http://45.130.3.213:80/XSPORT/mpegts
+#EXTM3U
+#EXTINF:-1,AXN CE
+http://128.199.101.84:9000/play/axn/index.m3u8
+#EXTINF:-1,Animal Planet
+http://128.199.101.84:9000/play/a01a/index.m3u8
+#EXTINF:-1,Bloomberg
+http://128.199.101.84:9000/play/a02g/index.m3u8
+#EXTINF:-1,Boomerang
+http://128.199.101.84:9000/play/boom/index.m3u8
+#EXTINF:-1,CBS Reality
+http://128.199.101.84:9000/play/cbsr/index.m3u8
+#EXTINF:-1,Cinemax
+http://128.199.101.84:9000/play/cine/index.m3u8
+#EXTINF:-1,Cinemax2
+http://128.199.101.84:9000/play/cine2/index.m3u8
+#EXTINF:-1,Cool TV
+http://128.199.101.84:9000/play/cool/index.m3u8
+#EXTINF:-1,DIGI Sport 1 HD HU
+http://128.199.101.84:9000/play/ds1hd/index.m3u8
+#EXTINF:-1,DIGI Sport 1 HU
+http://128.199.101.84:9000/play/ds1/index.m3u8
+#EXTINF:-1,DIGI Sport 2 HD HU
+http://128.199.101.84:9000/play/ds2hd/index.m3u8
+#EXTINF:-1,DIGI Sport 2 HU
+http://128.199.101.84:9000/play/ds2/index.m3u8
+#EXTINF:-1,DIGI Sport 3 HU
+http://128.199.101.84:9000/play/ds3/index.m3u8
+#EXTINF:-1,DIGI World HD HU
+http://128.199.101.84:9000/play/digiwhd/index.m3u8
+#EXTINF:-1,DIGI World HU
+http://128.199.101.84:9000/play/dw/index.m3u8
+#EXTINF:-1,DTX
+http://128.199.101.84:9000/play/a01j/index.m3u8
+#EXTINF:-1,Dikh TV
+http://128.199.101.84:9000/play/dikh/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://128.199.101.84:9000/play/dch/index.m3u8
+#EXTINF:-1,Discovery Science
+http://128.199.101.84:9000/play/dscie/index.m3u8
+#EXTINF:-1,Discovery Science HD
+http://128.199.101.84:9000/play/dshd/index.m3u8
+#EXTINF:-1,Disney Channel
+http://128.199.101.84:9000/play/disney/index.m3u8
+#EXTINF:-1,Duna HD
+http://128.199.101.84:9000/play/dunahd-c/index.m3u8
+#EXTINF:-1,Duna TV
+http://128.199.101.84:9000/play/duna/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://128.199.101.84:9000/play/a00h/index.m3u8
+#EXTINF:-1,Eurosport
+http://128.199.101.84:9000/play/eusport/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://128.199.101.84:9000/play/a01k/index.m3u8
+#EXTINF:-1,Extreme Sports Channel
+http://128.199.101.84:9000/play/a017/index.m3u8
+#EXTINF:-1,Fem3 HU
+http://128.199.101.84:9000/play/fem3/index.m3u8
+#EXTINF:-1,Film 4
+http://128.199.101.84:9000/play/a026/index.m3u8
+#EXTINF:-1,Film Mania
+http://128.199.101.84:9000/play/filmmania/index.m3u8
+#EXTINF:-1,Film Now HU
+http://128.199.101.84:9000/play/a01v/index.m3u8
+#EXTINF:-1,FilmBox Extra HD
+http://128.199.101.84:9000/play/a02h/index.m3u8
+#EXTINF:-1,Filmbox Premium
+http://128.199.101.84:9000/play/a02f/index.m3u8
+#EXTINF:-1,Food Network
+http://128.199.101.84:9000/play/food/index.m3u8
+#EXTINF:-1,Galaxy4
+http://128.199.101.84:9000/play/a025/index.m3u8
+#EXTINF:-1,HBO
+http://128.199.101.84:9000/play/a02j/index.m3u8
+#EXTINF:-1,HBO2
+http://128.199.101.84:9000/play/a01b/index.m3u8
+#EXTINF:-1,Hir TV
+http://128.199.101.84:9000/play/a01z/index.m3u8
+#EXTINF:-1,HirTV
+http://128.199.101.84:9000/play/a02k/index.m3u8
+#EXTINF:-1,History HD
+http://128.199.101.84:9000/play/a02i/index.m3u8
+#EXTINF:-1,Hustler
+http://128.199.101.84:9000/play/hustler/index.m3u8
+#EXTINF:-1,JimJam
+http://128.199.101.84:9000/play/a018/index.m3u8
+#EXTINF:-1,JimJam HU
+http://128.199.101.84:9000/play/a02l/index.m3u8
+#EXTINF:-1,Jocky TV
+http://128.199.101.84:9000/play/a02p/index.m3u8
+#EXTINF:-1,M1 HD
+http://128.199.101.84:9000/play/a01n/index.m3u8
+#EXTINF:-1,M1 HD
+http://128.199.101.84:9000/play/m1hd/index.m3u8
+#EXTINF:-1,M2 HD
+http://128.199.101.84:9000/play/m2hd/index.m3u8
+#EXTINF:-1,M4 Sport
+http://128.199.101.84:9000/play/m4/index.m3u8
+#EXTINF:-1,M4 Sport HD
+http://128.199.101.84:9000/play/m4hd/index.m3u8
+#EXTINF:-1,MTV
+http://128.199.101.84:9000/play/mtv/index.m3u8
+#EXTINF:-1,Magyar Slager TV
+http://128.199.101.84:9000/play/a028/index.m3u8
+#EXTINF:-1,Megamax
+http://128.199.101.84:9000/play/a014/index.m3u8
+#EXTINF:-1,Mozi+ HD
+http://128.199.101.84:9000/play/a02u/index.m3u8
+#EXTINF:-1,Mozi+ HD
+http://128.199.101.84:9000/play/a01s/index.m3u8
+#EXTINF:-1,Mozi+ HD
+http://128.199.101.84:9000/play/moziplushd/index.m3u8
+#EXTINF:-1,Moziverzum
+http://128.199.101.84:9000/play/a02r/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://128.199.101.84:9000/play/a01g/index.m3u8
+#EXTINF:-1,Nat Geo Wild HU
+http://128.199.101.84:9000/play/a029/index.m3u8
+#EXTINF:-1,NatGeo HD
+http://128.199.101.84:9000/play/a00e/index.m3u8
+#EXTINF:-1,OzoneTV HD
+http://128.199.101.84:9000/play/ozonehd/index.m3u8
+#EXTINF:-1,PRIME
+http://128.199.101.84:9000/play/prime-c/index.m3u8
+#EXTINF:-1,Prime
+http://128.199.101.84:9000/play/prime-s/index.m3u8
+#EXTINF:-1,Private TV
+http://128.199.101.84:9000/play/private/index.m3u8
+#EXTINF:-1,RTL Klub
+http://128.199.101.84:9000/play/rtldigisat/index.m3u8
+#EXTINF:-1,RTL Klub HD
+http://128.199.101.84:9000/play/a02d/index.m3u8
+#EXTINF:-1,STORY 4
+http://128.199.101.84:9000/play/a01d/index.m3u8
+#EXTINF:-1,Sony Max
+http://128.199.101.84:9000/play/sonymax/index.m3u8
+#EXTINF:-1,Sony Movie Channel
+http://128.199.101.84:9000/play/smovie/index.m3u8
+#EXTINF:-1,Spektrum
+http://128.199.101.84:9000/play/a02n/index.m3u8
+#EXTINF:-1,Spektrum
+http://128.199.101.84:9000/play/a01h/index.m3u8
+#EXTINF:-1,Spiler 1
+http://128.199.101.84:9000/play/spiler1/index.m3u8
+#EXTINF:-1,Spiler2
+http://128.199.101.84:9000/play/spiler2/index.m3u8
+#EXTINF:-1,Sport 1 HD
+http://128.199.101.84:9000/play/sport1hd/index.m3u8
+#EXTINF:-1,Sport 2 HD
+http://128.199.101.84:9000/play/sport2hd/index.m3u8
+#EXTINF:-1,Sport1
+http://128.199.101.84:9000/play/a02m/index.m3u8
+#EXTINF:-1,SuperTV2
+http://128.199.101.84:9000/play/supertv2-s/index.m3u8
+#EXTINF:-1,SuperTV2 HD
+http://128.199.101.84:9000/play/supertv2hd/index.m3u8
+#EXTINF:-1,TLC
+http://128.199.101.84:9000/play/a02t/index.m3u8
+#EXTINF:-1,TLC
+http://128.199.101.84:9000/play/a01r/index.m3u8
+#EXTINF:-1,TLC
+http://128.199.101.84:9000/play/tlc-s/index.m3u8
+#EXTINF:-1,TLC
+http://128.199.101.84:9000/play/tlc-c/index.m3u8
+#EXTINF:-1,TV Paprika
+http://128.199.101.84:9000/play/a02o/index.m3u8
+#EXTINF:-1,TV Paprika HD
+http://128.199.101.84:9000/play/a02v/index.m3u8
+#EXTINF:-1,TV Paprika HD
+http://128.199.101.84:9000/play/a01t/index.m3u8
+#EXTINF:-1,TV2
+http://128.199.101.84:9000/play/a020/index.m3u8
+#EXTINF:-1,TV2 HD
+http://128.199.101.84:9000/play/t2h/index.m3u8
+#EXTINF:-1,VIASAT 3
+http://128.199.101.84:9000/play/v3/index.m3u8
+#EXTINF:-1,VIASAT 6
+http://128.199.101.84:9000/play/v6/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://128.199.101.84:9000/play/a00l/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://128.199.101.84:9000/play/a024/index.m3u8
+#EXTINF:-1,ducktv
+http://128.199.101.84:9000/play/a01i/index.m3u8
+#EXTINF:-1,m2 HD
+http://128.199.101.84:9000/play/a02b/index.m3u8
