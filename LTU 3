@@ -667,3 +667,14 @@ http://200.115.190.213:8000/play/DycXYSLMZedC8xjR/index.m3u8
 http://200.115.190.213:8000/play/5NF6H3EAyctLSrEz/index.m3u8
 #EXTINF:-1,5899 - SPACE HD
 http://200.115.190.213:8000/play/RPU46bVWEJBWXjqy/index.m3u8
+
+#EXTINF:0,lrt
+http://94.232.127.13/z3/lrt/index.m3u8
+#EXTINF:0,lnk
+http://94.232.127.13/z3/lnk/index.m3u8
+#EXTINF:0,btv
+http://94.232.127.13/z3/btv/index.m3u8
+#EXTINF:0,tv6
+http://94.232.127.13/z3/tv6/index.m3u8
+#EXTINF:0,tv8
+http://94.232.127.13/z3/tv8/index.m3u8
