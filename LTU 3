@@ -400,3 +400,188 @@ http://94.250.61.10:8000/play/discovery
 http://94.250.61.10:8000/play/eurosport2
 #EXTINF:-1,polaris-PRVA HD
 http://94.250.61.10:8000/play/prvatv
+
+#EXTINF:-1,253. OBN
+http://212.200.108.6:8005/play/a02y/index.m3u8
+#EXTINF:-1,503. Pink Extra
+http://212.200.108.6:8005/play/a06e/index.m3u8
+#EXTINF:-1,201. HD Luxe TV
+http://212.200.108.6:8005/play/a037/index.m3u8
+#EXTINF:-1,528. Pink Romance
+http://212.200.108.6:8005/play/a062/index.m3u8
+#EXTINF:-1,400. Arena Esport
+http://212.200.108.6:8005/play/a02z/index.m3u8
+#EXTINF:-1,039. HD SciFi
+http://212.200.108.6:8005/play/a02w/index.m3u8
+#EXTINF:-1,048. FilmBox Arthouse
+http://212.200.108.6:8005/play/a033/index.m3u8
+#EXTINF:-1,158. MTV Hits
+http://212.200.108.6:8005/play/a01n/index.m3u8
+#EXTINF:-1,525. Pink Crime&Mystery
+http://212.200.108.6:8005/play/a05z/index.m3u8
+#EXTINF:-1,037. Fox Crime
+http://212.200.108.6:8005/play/a02e/index.m3u8
+#EXTINF:-1,105. HD Travel Channel
+http://212.200.108.6:8005/play/a01j/index.m3u8
+#EXTINF:-1,035. Fox Life
+http://212.200.108.6:8005/play/a02c/index.m3u8
+#EXTINF:-1,087. Pink Super Kids
+http://212.200.108.6:8005/play/a05r/index.m3u8
+#EXTINF:-1,518. Pink Fashion
+http://212.200.108.6:8005/play/a05t/index.m3u8
+#EXTINF:-1,080. Jim Jam
+http://212.200.108.6:8005/play/a028/index.m3u8
+#EXTINF:-1,104. Animal Planet
+http://212.200.108.6:8005/play/a01i/index.m3u8
+#EXTINF:-1,523. Pink Plus
+http://212.200.108.6:8005/play/a05x/index.m3u8
+#EXTINF:-1,077. Duck TV
+http://212.200.108.6:8005/play/a026/index.m3u8
+#EXTINF:-1,071. HD Nickelodeon
+http://212.200.108.6:8005/play/a02r/index.m3u8
+#EXTINF:-1,403. Arena Sport 3
+http://212.200.108.6:8005/play/a02i/index.m3u8
+#EXTINF:-1,504. Pink M
+http://212.200.108.6:8005/play/a06f/index.m3u8
+#EXTINF:-1,526. Pink Sci-Fi&Fantasy
+http://212.200.108.6:8005/play/a060/index.m3u8
+#EXTINF:-1,538. Pink Pedia
+http://212.200.108.6:8005/play/a06u/index.m3u8
+#EXTINF:-1,402. Arena Sport 2
+http://212.200.108.6:8005/play/a02h/index.m3u8
+#EXTINF:-1,404. Arena Sport 4
+http://212.200.108.6:8005/play/a02j/index.m3u8
+#EXTINF:-1,106. National Geographic
+http://212.200.108.6:8005/play/a01k/index.m3u8
+#EXTINF:-1,520. Pink&Roll
+http://212.200.108.6:8005/play/a05v/index.m3u8
+#EXTINF:-1,517. Pink Horror
+http://212.200.108.6:8005/play/a05s/index.m3u8
+#EXTINF:-1,160. MTV Rocks
+http://212.200.108.6:8005/play/a01o/index.m3u8
+#EXTINF:-1,078. Hayatovci
+http://212.200.108.6:8005/play/a027/index.m3u8
+#EXTINF:-1,542. Pink Kuvar
+http://212.200.108.6:8005/play/a06w/index.m3u8
+#EXTINF:-1,108. History Channel
+http://212.200.108.6:8005/play/a02a/index.m3u8
+#EXTINF:-1,536. Pink Classic
+http://212.200.108.6:8005/play/a06y/index.m3u8
+#EXTINF:-1,418. Extreme Channel
+http://212.200.108.6:8005/play/a06a/index.m3u8
+#EXTINF:-1,086. Pink Kids
+http://212.200.108.6:8005/play/a06x/index.m3u8
+#EXTINF:-1,072. Nick Jr
+http://212.200.108.6:8005/play/a022/index.m3u8
+#EXTINF:-1,537. Pink Style
+http://212.200.108.6:8005/play/a06z/index.m3u8
+#EXTINF:-1,073. Disney Channel
+http://212.200.108.6:8005/play/a023/index.m3u8
+#EXTINF:-1,540. Pink Soap
+http://212.200.108.6:8005/play/a06v/index.m3u8
+#EXTINF:-1,535. Pink Show
+http://212.200.108.6:8005/play/a06t/index.m3u8
+#EXTINF:-1,521. Pink HA HA
+http://212.200.108.6:8005/play/a06s/index.m3u8
+#EXTINF:-1,534. Pink World
+http://212.200.108.6:8005/play/a068/index.m3u8
+#EXTINF:-1,527. Pink Premium
+http://212.200.108.6:8005/play/a061/index.m3u8
+#EXTINF:-1,075. Minimax/FilmPlus
+http://212.200.108.6:8005/play/a025/index.m3u8
+#EXTINF:-1,515. Pink Family
+http://212.200.108.6:8005/play/a06q/index.m3u8
+#EXTINF:-1,514. Pink Western
+http://212.200.108.6:8005/play/a06p/index.m3u8
+#EXTINF:-1,513. Pink Folk 2
+http://212.200.108.6:8005/play/a06o/index.m3u8
+#EXTINF:-1,512. Pink Folk
+http://212.200.108.6:8005/play/a06n/index.m3u8
+#EXTINF:-1,505. Pink BH
+http://212.200.108.6:8005/play/a06g/index.m3u8
+#EXTINF:-1,522. Pink LOL
+http://212.200.108.6:8005/play/a05w/index.m3u8
+#EXTINF:-1,509. Pink Hits 2
+http://212.200.108.6:8005/play/a06k/index.m3u8
+#EXTINF:-1,508. Pink Hits 1
+http://212.200.108.6:8005/play/a06j/index.m3u8
+#EXTINF:-1,043. CBS Reality
+http://212.200.108.6:8005/play/a030/index.m3u8
+#EXTINF:-1,507. Pink Music 2
+http://212.200.108.6:8005/play/a06i/index.m3u8
+#EXTINF:-1,164. 360TuneBox
+http://212.200.108.6:8005/play/a01q/index.m3u8
+#EXTINF:-1,506. Pink Music
+http://212.200.108.6:8005/play/a06h/index.m3u8
+#EXTINF:-1,511. City Play
+http://212.200.108.6:8005/play/a06m/index.m3u8
+#EXTINF:-1,530. Pink Action
+http://212.200.108.6:8005/play/a064/index.m3u8
+#EXTINF:-1,532. Pink Serije
+http://212.200.108.6:8005/play/a066/index.m3u8
+#EXTINF:-1,115. HD DocuBox
+http://212.200.108.6:8005/play/a036/index.m3u8
+#EXTINF:-1,501. Red
+http://212.200.108.6:8005/play/a06c/index.m3u8
+#EXTINF:-1,053. TV1000 Balkan
+http://212.200.108.6:8005/play/a02q/index.m3u8
+#EXTINF:-1,500. Pink
+http://212.200.108.6:8005/play/a06b/index.m3u8
+#EXTINF:-1,414. HD Fight Network
+http://212.200.108.6:8005/play/a069/index.m3u8
+#EXTINF:-1,516. Pink Film
+http://212.200.108.6:8005/play/a06r/index.m3u8
+#EXTINF:-1,401. Arena Sport 1
+http://212.200.108.6:8005/play/a02g/index.m3u8
+#EXTINF:-1,533. Pink World Cinema
+http://212.200.108.6:8005/play/a067/index.m3u8
+#EXTINF:-1,531. Pink Movies
+http://212.200.108.6:8005/play/a065/index.m3u8
+#EXTINF:-1,502. Pink 3 Info
+http://212.200.108.6:8005/play/a06d/index.m3u8
+#EXTINF:-1,162. VH1 Classic
+http://212.200.108.6:8005/play/a01p/index.m3u8
+#EXTINF:-1,529. Pink Thriller
+http://212.200.108.6:8005/play/a063/index.m3u8
+#EXTINF:-1,110. Crime & Investigation
+http://212.200.108.6:8005/play/a01m/index.m3u8
+#EXTINF:-1,184. BBC World News
+http://212.200.108.6:8005/play/a02v/index.m3u8
+#EXTINF:-1,203. FashionBox
+http://212.200.108.6:8005/play/a038/index.m3u8
+#EXTINF:-1,519. Pink Koncert
+http://212.200.108.6:8005/play/a05u/index.m3u8
+#EXTINF:-1,524. Pink Comedy
+http://212.200.108.6:8005/play/a05y/index.m3u8
+#EXTINF:-1,117. Viasat Explore
+http://212.200.108.6:8005/play/a02s/index.m3u8
+#EXTINF:-1,510. Bravo Music
+http://212.200.108.6:8005/play/a06l/index.m3u8
+#EXTINF:-1,119. Viasat Nature
+http://212.200.108.6:8005/play/a02u/index.m3u8
+#EXTINF:-1,200. E!
+http://212.200.108.6:8005/play/a02x/index.m3u8
+#EXTINF:-1,112. HD Kitchen TV
+http://212.200.108.6:8005/play/a035/index.m3u8
+#EXTINF:-1,036. FOX
+http://212.200.108.6:8005/play/a02d/index.m3u8
+#EXTINF:-1,107. HD NatGeoWild
+http://212.200.108.6:8005/play/a01l/index.m3u8
+#EXTINF:-1,074. Disney Junior
+http://212.200.108.6:8005/play/a024/index.m3u8
+#EXTINF:-1,081. CN
+http://212.200.108.6:8005/play/a029/index.m3u8
+#EXTINF:-1,054. HD Shorts
+http://212.200.108.6:8005/play/a034/index.m3u8
+#EXTINF:-1,045. AXN Adria
+http://212.200.108.6:8005/play/a031/index.m3u8
+#EXTINF:-1,408. Eurosport 1
+http://212.200.108.6:8005/play/a02k/index.m3u8
+#EXTINF:-1,34. Cinestar Comedy
+http://212.200.108.6:8005/play/a02p/index.m3u8
+#EXTINF:-1,102. Discovery Serbia
+http://212.200.108.6:8005/play/a01h/index.m3u8
+#EXTINF:-1,046. AXN Spin
+http://212.200.108.6:8005/play/a032/index.m3u8
+#EXTINF:-1,118. Viasat History
+http://212.200.108.6:8005/play/a02t/index.m3u8
