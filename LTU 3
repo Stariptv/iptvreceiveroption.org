@@ -340,3 +340,105 @@ http://186.101.216.211:8000/play/a06i
 #EXTINF:-1 tvg-id="Canal ZOOM (Colombia)",Zoom
 http://186.101.216.211:8000/play/a09b
 
+#EXTINF:-1,2TV
+http://62.210.71.189:8000/play/2TV_24/index.m3u8
+#EXTINF:-1,BTV
+http://62.210.71.189:8000/play/BTV_8/index.m3u8
+#EXTINF:-1,BTV HD
+http://62.210.71.189:8000/play/BTVHD_9/index.m3u8
+#EXTINF:-1,Balticum Auksinis
+http://62.210.71.189:8000/play/BalticumAuksinis_36/index.m3u8
+#EXTINF:-1,Balticum Platinum HD
+http://62.210.71.189:8000/play/BalticumPlatinumHD_35/index.m3u8
+#EXTINF:-1,Balticum TV
+http://62.210.71.189:8000/play/BalticumTV_34/index.m3u8
+#EXTINF:-1,Delfi.TV
+http://62.210.71.189:8000/play/DelfiTV_33/index.m3u8
+#EXTINF:-1,Dzūkijos TV
+http://62.210.71.189:8000/play/DzkijosTV_23/index.m3u8
+#EXTINF:-1,FilmZone HD
+http://62.210.71.189:8000/play/FilmZoneHD_37/index.m3u8
+#EXTINF:-1,FilmZone+ HD
+http://62.210.71.189:8000/play/FilmZoneHD_39/index.m3u8
+#EXTINF:-1,GNTV
+http://62.210.71.189:8000/play/GNTV_26/index.m3u8
+#EXTINF:-1,Info TV
+http://62.210.71.189:8000/play/InfoTV_18/index.m3u8
+#EXTINF:-1,Info TV HD
+http://62.210.71.189:8000/play/InfoTVHD_19/index.m3u8
+#EXTINF:-1,Init Ekstra
+http://62.210.71.189:8000/play/InitEkstra_32/index.m3u8
+#EXTINF:-1,Init Play
+http://62.210.71.189:8000/play/InitPlay_27/index.m3u8
+#EXTINF:-1,Init TV
+http://62.210.71.189:8000/play/InitTV_30/index.m3u8
+#EXTINF:-1,Init TV HD
+http://62.210.71.189:8000/play/InitTVHD_31/index.m3u8
+#EXTINF:-1,LNK
+http://62.210.71.189:8000/play/LNK_6/index.m3u8
+#EXTINF:-1,LNK HD
+http://62.210.71.189:8000/play/LNKHD_7/index.m3u8
+#EXTINF:-1,LRT
+http://62.210.71.189:8000/play/LRT_0/index.m3u8
+#EXTINF:-1,LRT HD
+http://62.210.71.189:8000/play/LRTHD_1/index.m3u8
+#EXTINF:-1,LRT plius
+http://62.210.71.189:8000/play/LRTplius_2/index.m3u8
+#EXTINF:-1,LRT plius HD
+http://62.210.71.189:8000/play/LRTpliusHD_3/index.m3u8
+#EXTINF:-1,Lietuvos rytas
+http://62.210.71.189:8000/play/Lietuvosrytas_10/index.m3u8
+#EXTINF:-1,Lietuvos rytas HD
+http://62.210.71.189:8000/play/LietuvosrytasHD_11/index.m3u8
+#EXTINF:-1,Marijampolės TV
+http://62.210.71.189:8000/play/MarijampolsTV_21/index.m3u8
+#EXTINF:-1,Pūkas TV
+http://62.210.71.189:8000/play/PkasTV_28/index.m3u8
+#EXTINF:-1,Pūkas TV HD
+http://62.210.71.189:8000/play/PkasTVHD_29/index.m3u8
+#EXTINF:-1,Seimas tiesiogiai
+http://62.210.71.189:8000/play/Seimastiesiogiai_20/index.m3u8
+#EXTINF:-1,Setanta 1 HD
+http://62.210.71.189:8000/play/efe1851f35c6d244be27b97549b8e65031e66fdf/index.m3u8
+#EXTINF:-1,Sport1 HD
+http://62.210.71.189:8000/play/76e8aec6c2ca6c0c81005123f6afa4e7f3bdb44f/index.m3u8
+#EXTINF:-1,TV1
+http://62.210.71.189:8000/play/TV1_14/index.m3u8
+#EXTINF:-1,TV1 HD
+http://62.210.71.189:8000/play/TV1HD_15/index.m3u8
+#EXTINF:-1,TV1000
+http://62.210.71.189:8000/play/TV1000_42/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://62.210.71.189:8000/play/TV1000Action_43/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://62.210.71.189:8000/play/TV1000Russkoekino_44/index.m3u8
+#EXTINF:-1,TV3
+http://62.210.71.189:8000/play/TV3_4/index.m3u8
+#EXTINF:-1,TV3 FILM
+http://62.210.71.189:8000/play/TV3FILM_40/index.m3u8
+#EXTINF:-1,TV3 FILM HD
+http://62.210.71.189:8000/play/TV3FILMHD_41/index.m3u8
+#EXTINF:-1,TV3 HD
+http://62.210.71.189:8000/play/TV3HD_5/index.m3u8
+#EXTINF:-1,TV3 Sport 2 HD
+http://62.210.71.189:8000/play/4bde5ca6691a16bb18853e459185930023565726/index.m3u8
+#EXTINF:-1,TV3 Sport HD
+http://62.210.71.189:8000/play/c78a615e97c610d8bf248154919c2deac6bc2f06/index.m3u8
+#EXTINF:-1,TV6
+http://62.210.71.189:8000/play/TV6_12/index.m3u8
+#EXTINF:-1,TV6 HD
+http://62.210.71.189:8000/play/TV6HD_13/index.m3u8
+#EXTINF:-1,TV8
+http://62.210.71.189:8000/play/TV8_16/index.m3u8
+#EXTINF:-1,TV8 HD
+http://62.210.71.189:8000/play/TV8HD_17/index.m3u8
+#EXTINF:-1,VH1 Europe
+http://62.210.71.189:8000/play/daa88cbc41d308b1b56bd9c02f04da4ece301053/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://62.210.71.189:8000/play/e127c01f5001d781ec47344320f85956476650c3/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://62.210.71.189:8000/play/7c8d3a796c58952bc20412f19446f31d619cc947/index.m3u8
+#EXTINF:-1,Šiaulių TV
+http://62.210.71.189:8000/play/iauliTV_22/index.m3u8
+#EXTINF:-1,Žvaigždė TV
+http://62.210.71.189:8000/play/vaigdTV_25/index.m3u8
